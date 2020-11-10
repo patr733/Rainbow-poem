@@ -1,6 +1,7 @@
 The Rainbow and the Unicorn
 unicorn
 purple
+indigo
 blue
 red
 orange green
