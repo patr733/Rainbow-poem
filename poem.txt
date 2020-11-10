@@ -4,3 +4,4 @@ blue
 red
 orange green
 These are the colors of the rainbow.
+turquoise
